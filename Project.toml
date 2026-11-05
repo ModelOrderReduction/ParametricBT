@@ -1,7 +1,7 @@
 name = "ParametricBT"
 uuid = "558b9cde-5307-4f23-a62d-0d7c058ffbf2"
-authors = ["Algopaul <72927083+Algopaul@users.noreply.github.com> and contributors"]
 version = "0.1.0"
+authors = ["Algopaul <72927083+Algopaul@users.noreply.github.com> and contributors"]
 
 [deps]
 FiniteDifferences = "26cc04aa-876d-5657-8c51-4c34ba976000"
@@ -10,6 +10,7 @@ MatrixEquations = "99c1a7ee-ab34-5fd5-8076-27c950a045f4"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 
 [compat]
+FiniteDifferences = "0.12"
 julia = "1"
 
 [extras]
